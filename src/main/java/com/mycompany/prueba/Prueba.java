@@ -18,5 +18,14 @@ public class Prueba {
         
         
         System.out.println("HOLAAAAAAA!!!!!! :D");
+        
+        
+        System.out.println("Prueba holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
+        
+        int num = 1;
+        int num1 = 2;
+        
+        int suma = num + num1;
+        System.err.println("La suma es: " + suma);
     }
 }
